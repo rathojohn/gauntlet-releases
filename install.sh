@@ -69,3 +69,5 @@ say ""
 say "Installed. Gauntlet needs Node 22+ and an authenticated claude or codex CLI."
 say "Open it with:  open -a Gauntlet"
 say ""
+
+# Sync check: 0c02a5b
